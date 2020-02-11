@@ -5,17 +5,17 @@ This is android sample app for finding the schedule of suburban buses. (in Repub
 
 ## Using:
 
--[Kotlin](https://kotlinlang.org/)
+  - [Kotlin](https://kotlinlang.org/)
 
--[Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
+  - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html)
 
--[Retrofit](https://square.github.io/retrofit/)
+  - [Retrofit](https://square.github.io/retrofit/)
 
--[Moshi](https://github.com/square/moshi)
+  - [Moshi](https://github.com/square/moshi)
 
--[Android architecture components (LiveData, ViewModel, Room)](https://developer.android.com/topic/libraries/architecture)
+  - [Android architecture components (LiveData, ViewModel, Room)](https://developer.android.com/topic/libraries/architecture)
 
--[Yandex API (not for commercial use)](https://yandex.ru/dev/rasp/raspapi/)
+  - [Yandex API (not for commercial use)](https://yandex.ru/dev/rasp/raspapi/)
 
 ## How it looks:
 
